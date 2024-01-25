@@ -1,3 +1,3 @@
 # Hello IST 707!
 
-!(/.image1.webp)
+![Image Alt Text](image1.webp)
