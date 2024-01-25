@@ -1,3 +1,3 @@
-#"Hello IST 707!"
+#Hello IST 707!
 
 !(./image1.webp)
